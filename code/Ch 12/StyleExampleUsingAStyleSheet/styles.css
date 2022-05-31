@@ -1,0 +1,12 @@
+code {
+  font-weight: bold;
+}
+
+#example {
+  text-align: justify;
+  border: solid 1px blue;
+  padding-left: 15px;
+  padding-right: 15px;
+  width: 70%;
+  margin: auto;
+}
